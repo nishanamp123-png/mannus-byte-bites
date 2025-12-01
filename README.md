@@ -1,3 +1,8 @@
+
+🌐 Live Website
+
+👉 https://mannus-byte-bites.lovable.app/
+
 Homemade Food Ordering Website
 
 A simple and friendly digital ordering platform for homemade meals — now with chatbot support.
